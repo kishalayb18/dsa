@@ -1,3 +1,8 @@
+# Two sum
+
+Problem https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=plakya4j
+sol https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr&index=3&pp=iAQB
+ 
  You are given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
