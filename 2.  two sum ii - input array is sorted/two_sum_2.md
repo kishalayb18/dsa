@@ -3,6 +3,8 @@
 ## Problem Source
 LeetCode #167 — [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
+how to solve [video two sum 2](https://www.youtube.com/watch?v=cQ1Oz4ckceM&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr&index=11)
+
 ## Problem Statement
 Given a **1-indexed** array of integers `numbers` that is **already sorted in
 non-decreasing order**, find two numbers such that they add up to a specific
@@ -62,3 +64,13 @@ numbers is sorted in non-decreasing order.
 Use the **two pointers** approach — it's optimal in both time and space,
 and LeetCode marks this as the intended solution for the "constant extra
 space" requirement.
+## Solution Video
+Place to provide a solution video (walkthrough / explanation). Add a YouTube
+link or embed an iframe below when available.
+
+- **Video (link):** [Add video title and URL here]
+
+- **Embed (example):**
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Solution Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
